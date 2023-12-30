@@ -8,3 +8,7 @@ spring:
           uri: http://localhost:8081
           predicates:
             - Path=/orders/** # Path predicate for URI path matching
+  data:
+    mongodb:
+      uri: 
+      database: scg

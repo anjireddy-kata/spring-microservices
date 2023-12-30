@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/apigateway/src/main/main.iml" filepath="$PROJECT_DIR$/apigateway/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apigateway/spring-microservices.apigateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/apigateway/spring-microservices.apigateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apigateway/spring-microservices.apigateway.test.iml" filepath="$PROJECT_DIR$/.idea/modules/apigateway/spring-microservices.apigateway.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/apigateway/src/test/test.iml" filepath="$PROJECT_DIR$/apigateway/src/test/test.iml" />
     </modules>
   </component>
